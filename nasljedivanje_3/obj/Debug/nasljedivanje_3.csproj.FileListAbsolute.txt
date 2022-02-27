@@ -1,0 +1,3 @@
+C:\Users\SeBa\source\repos\nasljedivanje_3\nasljedivanje_3\obj\Debug\nasljedivanje_3.csproj.AssemblyReference.cache
+C:\Users\SeBa\source\repos\nasljedivanje_3\nasljedivanje_3\obj\Debug\nasljedivanje_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\SeBa\source\repos\nasljedivanje_3\nasljedivanje_3\obj\Debug\nasljedivanje_3.csproj.CoreCompileInputs.cache
